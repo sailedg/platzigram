@@ -1,2 +1,2 @@
 # platzigram
-Curso de platzo
+Curso de platzi
